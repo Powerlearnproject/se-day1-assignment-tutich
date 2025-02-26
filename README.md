@@ -9,6 +9,7 @@ a. Software engineering is the systematic application of engineering principles,
 b. Software engineering plays a crucial role in technology industry by enabling creation of software applcations that power various aspects of modern life including commerce, healthcare, education and entertainment.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
+
 1. Development of programming languages - The development of programming languages progressed from early machine code to increasingly higher-level languages, with key milestones 
    including Fortran introducing higher-level abstraction for scientific computing, C becoming a foundational language for systems programming .
 2. Establishment of software engineering as discpline - The conference in 1960s brought together international experts who agreed to apply the systematic approach of physical world 
@@ -16,6 +17,7 @@ Identify and describe at least three key milestones in the evolution of software
 3. Advent of structurred programming in 1970s - a programming technique that organizes programs into a hierarchy of modules. This improves readability and maintainability.
 
 List and briefly explain the phases of the Software Development Life Cycle.
+
 a. Requirements - Gathering and outlining user needs and requirements.
 b. Design - Creating high level and detailed designs of the architecture of desired software.
 c. Implementation - Writing the code according to the design.
